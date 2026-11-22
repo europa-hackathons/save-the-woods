@@ -2,7 +2,7 @@
 
 **Save the Woods!** is a browser-based, single-file arcade game where you play as a wolf hero defending 5 forest trees from chopper robots and 3 scheduled bosses within a 90-second round. Designed to be played with **one hand via a 4-box webcam motion grid**, it also includes full keyboard backup controls.
 
-**Built by:** Ezra, Uma, and Yoonchae under supervision from Manish
+**Built by:** Ezra, Milian, and Yoonchae under supervision from Manish
 
 ---
 
